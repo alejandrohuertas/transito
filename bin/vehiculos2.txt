@@ -1,0 +1,12 @@
+moto, 2, 2, 1999-11-01, 'privado', 125,'2 tiempos'
+auto, 4, 2, 2001-03-31, 'publico', 2, 'manual'
+moto, 2, 2, 2000-04-01, 'privado', 125,'4 tiempos'
+auto, 4, 2, 1921-02-21, 'publico', 2 , 'automatica'
+camion, 2, 2, 2000-11-01, 'privado', 56.7, 48000.0
+auto, 4, 2, 1984-08-11, 'publico',  2, 'manual'
+moto, 2, 2, 2010-04-04, 'privado',  1000,'2 tiempos'
+auto, 4, 2, 2001-01-11, 'publico',  2, 'automatica'
+moto, 2, 2, 2003-09-02, 'privado',  1000,'2 tiempos'
+camion, 10, 2, 2012-10-01, 'privado',  20.0, 10000.0
+
+
