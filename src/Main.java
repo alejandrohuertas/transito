@@ -12,7 +12,7 @@ public class Main {
 		
 		LectorArchivo lectorArchivo = new LectorArchivo();
 		
-		Collection<Vehiculo> vehiculos = lectorArchivo.readFile("bin/vehiculos2.txt");
+		Collection<Vehiculo> vehiculos = lectorArchivo.readFile("src/vehiculos2.txt");
 		
 		System.out.println("Antes de ordenar");
 		System.out.println(vehiculos);
